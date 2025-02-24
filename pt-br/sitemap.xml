@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/pt-br/</loc>
+    <loc>https://aspirerz.github.io/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/"
+                href="https://aspirerz.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://example.org/de-de/"
+                href="https://aspirerz.github.io/de-de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://example.org/fr-fr/"
+                href="https://aspirerz.github.io/fr-fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.org/ru-ru/"
+                href="https://aspirerz.github.io/ru-ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/"
+                href="https://aspirerz.github.io/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.org/pt-br/"
+                href="https://aspirerz.github.io/pt-br/"
                 />
   </url><url>
-    <loc>https://example.org/pt-br/categories/</loc>
+    <loc>https://aspirerz.github.io/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/categories/"
+                href="https://aspirerz.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://example.org/de-de/categories/"
+                href="https://aspirerz.github.io/de-de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://example.org/fr-fr/categories/"
+                href="https://aspirerz.github.io/fr-fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.org/ru-ru/categories/"
+                href="https://aspirerz.github.io/ru-ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/categories/"
+                href="https://aspirerz.github.io/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.org/pt-br/categories/"
+                href="https://aspirerz.github.io/pt-br/categories/"
                 />
   </url><url>
-    <loc>https://example.org/pt-br/tags/</loc>
+    <loc>https://aspirerz.github.io/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-gb"
-                href="https://example.org/tags/"
+                href="https://aspirerz.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-de"
-                href="https://example.org/de-de/tags/"
+                href="https://aspirerz.github.io/de-de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://example.org/fr-fr/tags/"
+                href="https://aspirerz.github.io/fr-fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.org/ru-ru/tags/"
+                href="https://aspirerz.github.io/ru-ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://example.org/it/tags/"
+                href="https://aspirerz.github.io/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.org/pt-br/tags/"
+                href="https://aspirerz.github.io/pt-br/tags/"
                 />
   </url>
 </urlset>

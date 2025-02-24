@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Awesome Hugo blog</title>
-    <link>https://example.org/posts/</link>
+    <link>https://aspirerz.github.io/posts/</link>
     <description>Recent content in Posts on Awesome Hugo blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 24 Feb 2025 20:03:26 +0800</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 20:03:26 +0800</lastBuildDate><atom:link href="https://aspirerz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://example.org/posts/test/</link>
+      <link>https://aspirerz.github.io/posts/test/</link>
       <pubDate>Mon, 24 Feb 2025 20:03:26 +0800</pubDate>
       
-      <guid>https://example.org/posts/test/</guid>
+      <guid>https://aspirerz.github.io/posts/test/</guid>
       
       <description>&lt;p&gt;this is a test blog.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/images/test.png&#34; alt=&#34;图片描述&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://aspirerz.github.io/images/test.png&#34; alt=&#34;图片描述&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
