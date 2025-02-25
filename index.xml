@@ -41,17 +41,5 @@
       
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>https://aspirerz.github.io/posts/test/</link>
-      <pubDate>Mon, 24 Feb 2025 20:03:26 +0800</pubDate>
-      
-      <guid>https://aspirerz.github.io/posts/test/</guid>
-      
-      <description>&lt;p&gt;this is a test blog.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://aspirerz.github.io/images/test.png&#34; alt=&#34;图片描述&#34;&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
   </channel>
 </rss>
