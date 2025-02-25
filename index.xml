@@ -6,7 +6,31 @@
     <description>Recent content on Awesome Aspire&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 25 Feb 2025 00:22:26 +0800</lastBuildDate><atom:link href="https://aspirerz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 21:03:26 +0800</lastBuildDate><atom:link href="https://aspirerz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CEH practical exam 准备</title>
+      <link>https://aspirerz.github.io/posts/ceh/</link>
+      <pubDate>Tue, 25 Feb 2025 21:03:26 +0800</pubDate>
+      
+      <guid>https://aspirerz.github.io/posts/ceh/</guid>
+      
+      <description>&lt;p&gt;&lt;strong&gt;选CEH而不是OSCP理由&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;考虑到经济原因&lt;/li&gt;
+&lt;li&gt;一方面是自己的确并不想做一个红队的角色，而是更愿意在安全运营，SOC分析方面去发展，但另一方面自己又对渗透测试很有兴趣，愿意在这个方向持续去精进自己的技术。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;网上关于CEH practical的教程并不多，免费练习的靶场也没有，主要还是自己综合水平达的到才能稳过。
+也许CEH practical 的渗透测试深度相对OSCP会浅一些，但是在知识广度上涉及的知识面面不在OSCP之下，所以考虑到职业生涯规划问题，我决定报考CEH practical.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;报考流程：&lt;/strong&gt;
+1、因为我之前没有考它的官方培训，所以如果直接参与practical考试（selfstudy）就需要交100$的申请费用,需要提前办好visa卡or双币信用卡；这样才可以付款成功。
+2、英文简历、付款凭证（付款成功后会发你邮箱）、个人信息表格（也是付款成功后发给你的邮件附件）；将这三份资料发给邮箱eligibility@eccouncil.org ；随后等待反馈就可以
+3、初步信息通过后会让你进一步递交更详细信息，包括护照信息，更详细的信息表格附件，这一步你需要填上司的邮箱，ceh机构会给你的上司发一个调查表格验证你信息的真伪。（提前和上司沟通好）
+4、在上司回复机构的邮件后，ceh官方很快会给你反馈，并让你交考试费550$；接下来就可以使用这个考试券预约考试了。&lt;/p&gt;
+&lt;p&gt;Why choose CEH Practical over OSCP? Considering financial constraints, I ultimately opted for CEH Practical.&lt;/p&gt;
+&lt;p&gt;On one hand, I genuinely don’t aspire to pursue a red team role, preferring to develop my career in security operations and SOC analysis. On the other hand, I remain deeply interested in penetration testing and am committed to continuously refining my technical skills in this area.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Pentesting &amp; Tools On different platforms</title>
       <link>https://aspirerz.github.io/posts/pentesting-tools/</link>
