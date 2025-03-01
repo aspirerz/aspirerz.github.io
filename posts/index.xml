@@ -8,7 +8,7 @@
     <language>en-gb</language>
     <lastBuildDate>Tue, 25 Feb 2025 21:03:26 +0800</lastBuildDate><atom:link href="https://aspirerz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CEH practical exam 准备</title>
+      <title>CEH practical exam Related</title>
       <link>https://aspirerz.github.io/posts/ceh/</link>
       <pubDate>Tue, 25 Feb 2025 21:03:26 +0800</pubDate>
       
@@ -17,7 +17,7 @@
       <description>&lt;p&gt;&lt;strong&gt;选CEH而不是OSCP理由&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;考虑到经济原因&lt;/li&gt;
-&lt;li&gt;一方面是自己的确并不想做一个红队的角色，而是更愿意在安全运营，SOC分析方面去发展，但另一方面自己又对渗透测试很有兴趣，愿意在这个方向持续去精进自己的技术。&lt;/li&gt;
+&lt;li&gt;一方面是自己的确并不想做一个纯粹红队的角色，而是更愿意在安全运营，威胁狩猎等方面去发展，但另一方面自己又对渗透测试很有兴趣，愿意在这个方向持续去精进自己的技术。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;网上关于CEH practical的教程并不多，免费练习的靶场也没有，主要还是自己综合水平达的到才能稳过。
 也许CEH practical 的渗透测试深度相对OSCP会浅一些，但是在知识广度上涉及的知识面面不在OSCP之下，所以考虑到职业生涯规划问题，我决定报考CEH practical.&lt;/p&gt;
