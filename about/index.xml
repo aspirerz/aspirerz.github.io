@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Awesome Aspire&#39;s blog</title>
+    <link>https://aspirerz.github.io/about/</link>
+    <description>Recent content in Abouts on Awesome Aspire&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 31 Jan 2025 20:14:28 +0800</lastBuildDate><atom:link href="https://aspirerz.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about me</title>
+      <link>https://aspirerz.github.io/about/test/</link>
+      <pubDate>Fri, 31 Jan 2025 20:14:28 +0800</pubDate>
+      
+      <guid>https://aspirerz.github.io/about/test/</guid>
+      
+      <description>&lt;p&gt;CSDN:https://blog.csdn.net/weixin_44740377&lt;/p&gt;
+&lt;p&gt;T00ls:https://www.t00ls.com/members-profile-15365.html&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
